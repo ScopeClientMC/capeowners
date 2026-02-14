@@ -1,0 +1,29 @@
+{
+  "playerCapes": {
+    "1nxfp": [
+      "scopeclient/clientcentralcollab.png",
+      "scopeclient/devcape.png",
+      "scopeclient/crimsoncape.png",
+      "scopeclient/cape.gif",
+      "scopeclient/capeOG.png",
+      "scopeclient/Donatorcape.png",
+      "scopeclient/cape.png",
+      "scopeclient/partnercape.png",
+      "scopeclient/testercape.png",
+      "scopeclient/tuffcape.png",
+      "scopeclient/this is a threat.png"
+    ],
+    "vexe0n": [
+      "scopeclient/clientcentralcollab.png",
+      "scopeclient/crimsoncape.png",
+      "scopeclient/cape.gif",
+      "scopeclient/capeOG.png",
+      "scopeclient/Donatorcape.png",
+      "scopeclient/cape.png",
+      "scopeclient/partnercape.png",
+      "scopeclient/testercape.png",
+      "scopeclient/tuffcape.png",
+      "scopeclient/this is a threat.png"
+    ]
+  }
+}
