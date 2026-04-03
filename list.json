@@ -11,6 +11,7 @@
       "scopeclient/partnercape.png",
       "scopeclient/testercape.png",
       "scopeclient/tuffcape.png",
+      "scopeclient/easter.png",
       "scopeclient/this is a threat.png"
     ],
     "vexe0n": [
@@ -23,6 +24,7 @@
       "scopeclient/partnercape.png",
       "scopeclient/testercape.png",
       "scopeclient/tuffcape.png",
+      "scopeclient/easter.png",
       "scopeclient/this is a threat.png"
     ],
     "GH0ST_R8DR": [
@@ -36,6 +38,22 @@
     "xAKAINU": [
       "scopeclient/clientcentralcollab.png",
       "scopeclient/this is a threat.png"
+
+      ],
+    "L702x": [
+      "scopeclient/easter.png",
+      "scopeclient/this is a threat.png"
+      
+        ],
+    "__AlwaysGeeked__": [
+      "scopeclient/easter.png",
+      "scopeclient/this is a threat.png"
+
+       ],
+    "Pandadoxo": [
+      "scopeclient/easter.png",
+      "scopeclient/this is a threat.png"
+      
     ]
   }
 }
